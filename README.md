@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K3rn4l
 - 👀 I’m interested in learning to development programs and such by using code.
 - 🌱 I’m currently learning python, php, java, etc.
-- 💞️ I’m looking to collaborate on smm panels at the moment.
+- 💞️ I’m looking to collaborate with other users alike, or with more knowledge that I can follow.
 - 📫 How to reach me: _txshia_ on IG
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
